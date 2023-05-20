@@ -1,2 +1,2 @@
 # BOOK STORE
-## ASP .NET MVC + SQL Server e-commerce application.
+## ASP .NET (6.0) MVC + SQL Server e-commerce application.
