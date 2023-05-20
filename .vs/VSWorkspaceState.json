@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BookStore",
+    "\\BookStore\\Areas",
+    "\\BookStore\\Areas\\Identity",
+    "\\BookStore\\Areas\\Identity\\Pages",
+    "\\BookStore\\Areas\\Identity\\Pages\\Account",
+    "\\BookStore\\Areas\\Identity\\Pages\\Account\\Manage",
+    "\\BookStore\\Controllers",
+    "\\BookStore\\ViewModels",
+    "\\BookStore\\Views",
+    "\\BookStore\\Views\\Admin"
+  ],
+  "SelectedNode": "\\BookStore\\Controllers\\AdminController.cs",
+  "PreviewInSolutionExplorer": false
+}
